@@ -2,5 +2,6 @@
 
 The CSS Display Property
 
-This demo is just a copy of the solution files for the lab so the concepts can be demonstrated.
+This demo gives examples of block and inline elements to demonstrate the differences.
+
 
